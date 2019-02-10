@@ -1,0 +1,7 @@
+<suite name="Facebook Post test">
+    <test name="TestPost">
+        <classes>
+            <class name="tests.TestPost" />
+        </classes>
+    </test>
+</suite>

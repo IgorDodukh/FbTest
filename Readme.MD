@@ -5,7 +5,7 @@ It may take up to three months. So, all tests are failed after execution.
 Link to the original article:
 > https://developers.apiManager.com/blog/post/2018/07/31/apiManager-app-review-update/
 
-## Get new token
+## How to get new access token
 The only was to generate new access token is a Graph API Explorer.
 
 Access to Facebook test account:
